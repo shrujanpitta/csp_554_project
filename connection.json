@@ -1,0 +1,9 @@
+{
+  "account"            : "QIIZVBZ-DY39590",
+  "user"               : "SHRUJAN030196",
+  "password"           : "Hello@123",
+  "role"               : "ACCOUNTADMIN",
+  "warehouse"          : "ML_HOL_WH",
+  "database"           : "ML_HOL_DB",
+  "schema"             : "ML_HOL_SCHEMA"
+}
